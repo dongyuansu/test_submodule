@@ -1,0 +1,3 @@
+[submodule "mysubmodule"]
+	url = https://github.com/dongyuansu/AdvTech2022-Test-Only.git
+	path = mysubmodule
